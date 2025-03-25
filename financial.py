@@ -12,7 +12,7 @@ Original file is located at
 """
 
 # Commented out IPython magic to ensure Python compatibility.
-!pip install -q streamlit
+
 # %pip install -q google-colab-selenium
 !pip install -qU "langchain-chroma>=0.1.2"
 !pip install -q torch transformers accelerate bitsandbytes langchain langchain-community
