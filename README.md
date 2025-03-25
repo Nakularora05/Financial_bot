@@ -1,5 +1,5 @@
-# RAG_Financial_Bot
-![Untitled Diagram drawio](https://github.com/user-attachments/assets/583f000a-aff2-4e9a-9b83-b5d6ace021fc)
+Financial_Bot
+
 
 Investors and traders often perform fundamental analysis to evaluate a company’s financial health and assess its value before making investment decisions. In this article, we’ll walk through a step-by-step guide on how to conduct fundamental analysis of a stock by:
 1. Web scraping financial data from Yahoo Finance
